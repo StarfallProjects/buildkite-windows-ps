@@ -1,1 +1,1 @@
-Write-Host "in hook 2"
+Write-Host "in post-command hook"

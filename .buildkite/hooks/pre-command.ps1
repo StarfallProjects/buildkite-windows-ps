@@ -1,1 +1,1 @@
-Write-Host "in hook"
+Write-Host "in pre-command hook"
